@@ -1,10 +1,3 @@
-// File Name: GameState.cpp
-//
-// Author: Nathan Carlson
-// Date: 04/29/24
-// Assignment Number: 4
-// Instructor: Xiaomin Li
-//
 // GameState represents the current state of a tic tac toe game that allows
 // players to undo the most recent of their opponents moves.
 // It maintains the current game board and a stack of the currently active
