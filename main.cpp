@@ -1,10 +1,3 @@
-// File Name: GameState.h
-//
-// Author: Jill Seaman
-// Date: 4/9/2022
-// Assignment Number: 
-// Instructor: Xiaomin Li
-//
 // Manages a tic tac toe game that allows players to move or undo the most
 // recent of their opponents moves when it is their turn.
 
